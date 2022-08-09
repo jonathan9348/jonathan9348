@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2FJona9315" alt="" />
   </a>
   
-  <a href="https://twitter.com/Jona9315" target="_blank">
+  <a href="https://www.facebook.com/jonathan.moran.144" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-Sigueme-<BLUE>" alt="" />
   </a>
   
