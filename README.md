@@ -1,7 +1,7 @@
 <div align="center">
   <img src = "https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt = "img not found" width = 300px />
   <h1>:+1: *Bienvenidos!*:+1: </h1> 
-    <h3> Descubriendo este bello mundo que es la programación, aprendiendo día a día y abierto a nuevas experiencias. Estudio actualmente programación en el bootcamp :yellow_circle:SoyHenry:yellow_circle: y tuve un paso por #ArgentinaPrograma pero no psin poder concluirlo. Soy de Argentina, resido en la ciudad de La Plata y tengo 29 años. </h3> 
+    <h3> Descubriendo este bello mundo que es la programación, aprendiendo día a día y abierto a nuevas experiencias. Estudio actualmente programación en el bootcamp :yellow_circle:SoyHenry:yellow_circle: y tuve un paso por #ArgentinaPrograma pero sin poder concluirlo. Soy de Argentina, resido en la ciudad de La Plata y tengo 29 años. </h3> 
 </div>
 
 <div>
