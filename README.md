@@ -1,7 +1,8 @@
 <div align="center">
   <img src = "https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt = "img not found" width = 300px />
   <h1>:+1: *Bienvenidos!*:+1: </h1> 
-    <h3> Descubriendo este bello mundo que es la programación, aprendiendo día a día y abierto a nuevas experiencias. Estudio actualmente programación en el bootcamp :yellow_circle:SoyHenry:yellow_circle: y tuve un paso por #ArgentinaPrograma pero sin poder concluirlo. Soy de Argentina, resido en la ciudad de La Plata y tengo 29 años. </h3> 
+    <h3> Descubriendo este bello mundo que es la programación, aprendiendo día a día y abierto a nuevas experiencias. Estudié programación en el bootcamp :yellow_circle:SoyHenry:yellow_circle: y tuve un paso por #ArgentinaPrograma pero sin poder concluirlo.
+  Tengo como objetivo principal poder contribuir con mis conocimientos al mundo de la tecnología y así darle calidad y eficiencia a los diferentes trabajos que se me presenten. Como así también estar en aprendizaje constante para ser mejor día a día. </h3> 
 </div>
 
 <div>
@@ -19,7 +20,7 @@
  
 ### :office_worker:SOBRE MI:
 
-- :keyboard: Voy subiendo mis prácticas diarias a mi GitHub
+- :keyboard: Voy subiendo mis prácticas a mi GitHub
 - :email: Me puedes contactar en mi email: jonathan.moran9348@gmail.com
 - :electron: Actualmente estoy aprendiendo tecnologias como React.js, Redux
 
