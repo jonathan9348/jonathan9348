@@ -22,7 +22,6 @@
 
 - :keyboard: Voy subiendo mis prácticas a mi GitHub
 - :email: Me puedes contactar en mi email: jonathan.moran9348@gmail.com
-- :electron: Actualmente estoy aprendiendo tecnologias como React.js, Redux
 
 <div>
   <h3>:hammer:Lenguajes y herramientas</h3>
@@ -33,6 +32,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-plain.svg" alt="CSS" tittle="CSS" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="CSS" tittle="CSS" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="CSS" tittle="CSS" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongo" tittle="MongoDB" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" tittle="Node" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="posgre" tittle="posgreSql" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" tittle="React" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" tittle="Redux" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="sequelize" tittle="Sequelize" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="trello" tittle="Trello" width="40" height="40" />&nbsp;
+   
   </div>
 
 </div>
